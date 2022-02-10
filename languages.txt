@@ -3,3 +3,7 @@ welcome to github
 hindi
 telugu
 english
+
+
+professional languages
+java c javascript
